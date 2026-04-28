@@ -50,5 +50,8 @@ streamlit run investment_portfolio_analyzer_app.py
 This project demonstrates data analysis, financial modeling, and interactive application development for portfolio evaluation.
 
 ## Author
+Daniel Cohen
+
+
 
 Daniel Cohen
